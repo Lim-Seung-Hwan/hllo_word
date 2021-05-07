@@ -11,6 +11,7 @@ public class test {
 		System.out.println("변경!");
 		
 		System.out.println("확인");
+		System.out.println("커밋재확인");
 	}
 
 }
