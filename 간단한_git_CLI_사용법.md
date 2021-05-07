@@ -5,6 +5,8 @@
  	 * git push 전 코멘트 추가
  * git push 
  	 * github에 반영
+ * git restore
+   * 변경한 파일의 변경사항을 되돌림
 
 ## git 처음 사용시
 git config --global user.email "you@example.com"
