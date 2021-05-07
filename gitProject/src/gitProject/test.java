@@ -6,7 +6,9 @@ public class test {
 		// TODO Auto-generated method stub
 		System.out.println("Test!");
 		System.out.println("test2");
-		System.out.println("리현디");
+		System.out.println("리현디"); //혹시 문제있는 부분 있나요 감사합니다!! 근데 push?는 어떻게해요? 변경사항이 있어야해요
+		
+		System.out.println("변경!");
 	}
 
 }
