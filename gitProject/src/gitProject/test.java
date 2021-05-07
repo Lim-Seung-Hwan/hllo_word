@@ -12,6 +12,7 @@ public class test {
 		
 		System.out.println("확인");
 		System.out.println("커밋재확인");
+		System.out.println("커밋한번더확인");
 	}
 
 }
